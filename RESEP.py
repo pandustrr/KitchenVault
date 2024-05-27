@@ -1,6 +1,4 @@
-import psycopg2
-import time
-import oscc;,c';a,c';,sC';S,AC',SA
+import psycopg2, time, os
 
 # Fungsi untuk melakukan koneksi ke database
 def connect_db():
